@@ -1,0 +1,9 @@
+Goal
+The goal of Asteroids is to shoot as many asteroids as you can with your lasers.  For every asteroid you destroy you get score and at the end your score may be added to the high score board.  If your ship collides with a asteroid you loose a life.  You start with three lives and when you loose all ofthem the game is over however after 1000 points you gain a life back.
+
+Controls
+W- move forward
+S- move backwards
+A- rotate ship counter clockwise 
+D- rotate ship clockwise
+SPACE- fire laser
