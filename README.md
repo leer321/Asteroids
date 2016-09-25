@@ -1,2 +1,2 @@
 # Asteroids
-version of classic arcade game
+Clone of classic arcade game.
